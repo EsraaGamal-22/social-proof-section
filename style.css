@@ -145,9 +145,10 @@ h1{
         text-align: center;
     }
     .rate-content{
-        width:85%;
+        width:100%;
         display: block;
         margin: 0 auto;
+        padding:0em;
     }
     .rate-container{
         width:100%;
